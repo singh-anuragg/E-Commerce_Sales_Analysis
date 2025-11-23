@@ -1,4 +1,4 @@
-# E-Commerce-Website-Sales-Analysis---POWER-BI
+# E-Commerce-Sales-Analysis---POWER-BI
 
 ## **Questions (KPIs)**
 
